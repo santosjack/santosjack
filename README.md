@@ -9,8 +9,6 @@
 ## 💻 Github Stats
 ##
 
-<br><br>
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=santosjack&show_icons=true&theme=dark"
@@ -64,8 +62,13 @@
   <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) -->
   <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) -->
   <!-- ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) -->
+  
+<br><br>
+## 💻 Contate-me
+##
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-jaqueline-santos-861678b8/)](https://www.linkedin.com/in/maria-jaqueline-santos-861678b8/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:santos.majaqueline@gmail.com)](mailto:santos.majaqueline@gmail.com)
 
 
 
