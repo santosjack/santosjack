@@ -35,7 +35,7 @@
 
 
 <br><br>
-## 💻 Algumas Tecnologias
+## 💻 Tecnologias que mais utilizo
 ##
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,7 +45,7 @@
   ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
-  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSql-00758F?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -53,7 +53,6 @@
   ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
   ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   <!-- ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white) -->
@@ -62,6 +61,7 @@
   <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) -->
   <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) -->
   <!-- ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) -->
+  <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws) -->
   
 <br><br>
 ## 💻 Contate-me
