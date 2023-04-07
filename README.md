@@ -1,6 +1,6 @@
 ### 👋 Olá! Sou a Jaque!
 
-- 🌱 Estudando DevOps na DIO
+- 🌱 Estudando Cloud Computing e QA na Dio
 - 🖥️ Finalizando formação em Desenvolvimento Web Full Stack na <a href="https://www.linkedin.com/school/driven-education/">Driven Education</a>
 - 😄 Pronomes: Ela/Dela
 
